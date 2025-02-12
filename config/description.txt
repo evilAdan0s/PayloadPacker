@@ -1,0 +1,11 @@
+FileDescription,ProductName,FileVersion,ProductVersion,CompanyName,LegalCopyright
+Bandizip,Bandizip,7.32.0.1,7.32.0.1,Bandisoft International Inc.,Copyright(C) 2011-2023 Bandisoft International Inc. All rights reserved.
+DiskGenius - Disk partition and data recovery,DiskGenius. Disk partition and data recovery software.,5.5.1,5.5.1,,Copy right(C) YIZISOO Co. Ltd.
+FileZilla FTP Client,FileZilla,3.65.0,3.65.0,FileZilla Project,Copyright (C) 2006-2023
+Google Chrome,Google Chrome,125.0.6422.142,125.0.6422.142,Google LLC,Copyright 2024 Google LLC. All rights reserved.
+向日葵远程控制64位,贝锐向日葵,13.3.1.56398,13.3.1.56398,上海贝锐信息科技股份有限公司,上海贝锐 版权所有
+ToDesk远程控制客户端,ToDesk,4.7.2.0,4.7.2.0,海南有趣科技有限公司 (www.todesk.com),Copyright(C) 2019 - 2023 www.todesk.com. All Right Reserved
+Kaspersky Lab launcher,Kaspersky Lab launcher,21.3.0.1,21.3.0.1,AO Kaspersky Lab,2021 AO Kaspersky Lab. All Rights Reserved.
+Sangfor VPN Security Protect Service,SangforPWEx 1.0,1.0.1.1,1.0.1.1,Sangfor Technologies Inc.,(C) Sangfor Technologies Inc. All rights reserved.
+Steam,Steam,01.00.00.02,08.92.64.03,Valve Corporation,Copyright (C) 2021 Valve Corporation
+滴答清单,ticktick_WPF,5.4.0.0,5.4.0.0,杭州随笔记网络技术有限公司,Copyright \xA9 2024 Appest.com
